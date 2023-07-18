@@ -65294,7 +65294,7 @@ p=A.acW(m.TG(),B.bz,B.e9,B.bL)
 o=m.e
 if(o<10)o="00"+o
 else{n=""+o
-o=o<100?"0"+n:n}s=new A.dX(B.dD,A.oi(A.BW(A.a([q,p,A.DH("assets/images/dex/"+o+".png",B.lc,l,l,l),A.afH(A.n3(A.ahe(!1,m.x,B.B6,B.vt,4,B.ee,new A.a7J(m)),l,250),m.w),A.tO(B.vy,new A.a7K(m))],t.F),B.bz,B.e9,B.bL),new A.dB(B.j,l,l,r,B.dV,l,B.aC),B.bh),l)}}r=t.w
+o=o<100?"0"+n:n}s=new A.dX(B.dD,A.oi(A.BW(A.a([q,p,A.DH("assets/images/dex/"+o+".png",B.lc,350,l,l),A.afH(A.n3(A.ahe(!1,m.x,B.B6,B.vt,4,B.ee,new A.a7J(m)),l,250),m.w),A.tO(B.vy,new A.a7K(m))],t.F),B.bz,B.e9,B.bL),new A.dB(B.j,l,l,r,B.dV,l,B.aC),B.bh),l)}}r=t.w
 q=a.U(r).f
 return A.n5(B.bv,A.a([A.DH("assets/images/other/pk_wp_2.jpg",B.f5,a.U(r).f.a.b,l,q.a.a),A.a_R(A.PJ(B.ky),B.K,A.o5(s,l,l))],t.F),B.bU)}}
 A.a7H.prototype={
